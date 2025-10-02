@@ -1,6 +1,6 @@
 {
-  "samara": "111111",
-  "sahnkargy": "111111",
+  "samara": "111222",
+  "sahnkargy": "111222",
   "baka": "http://10.10.10.254/video.php",
   "kastager": "http://41.196.252.175:7171/admin.php",
   "buttons": [
@@ -17,9 +17,10 @@
     { "text": "زر 11", "url": "https://example.com/11" },
     { "text": "زر 12", "url": "https://example.com/12" }
   ],
-  "prnamgaltager": "111111",
+  "prnamgaltager": "111222",
   "passur": "http://41.196.252.175:7171/user.php"
 }
+
 
 
 
