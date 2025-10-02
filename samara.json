@@ -1,6 +1,6 @@
 {
   "sam": "111111",
-  "tager": "12345",
+  "tager": "111111",
   "baka": "http://10.10.10.254/video.php",
   "kastager": "http://41.196.252.175:7171/admin.php",
   "buttons": [
@@ -20,6 +20,7 @@
   "pass": "123321",
   "passur": "http://41.196.252.175:7171/user.php"
 }
+
 
 
 
