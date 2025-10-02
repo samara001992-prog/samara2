@@ -1,6 +1,6 @@
 {
   "samara": "111222",
-  "sahnkargy": "111222",
+  "sahnkargy": "123321",
   "baka": "http://10.10.10.254/video.php",
   "kastager": "http://41.196.252.175:7171/admin.php",
   "buttons": [
@@ -20,6 +20,7 @@
   "prnamgaltager": "111222",
   "passur": "http://41.196.252.175:7171/user.php"
 }
+
 
 
 
