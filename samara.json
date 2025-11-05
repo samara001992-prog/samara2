@@ -6,7 +6,7 @@
   "buttons": [
     { "text": "اليوتيوب", "url": "https://www.youtube.com/" },
     { "text": "جوجل", "url": "https://google.com" },
-    { "text": "123123", "url": "https://example.com/3" },
+    { "text": "3", "url": "https://example.com/3" },
     { "text": "زر 4", "url": "https://example.com/4" },
     { "text": "زر 5", "url": "https://example.com/5" },
     { "text": "زر 6", "url": "https://example.com/6" },
@@ -20,6 +20,7 @@
   "prnamgaltager": "123321",
   "passur": "http://41.196.252.175:7171/user.php"
 }
+
 
 
 
