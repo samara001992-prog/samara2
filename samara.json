@@ -18,8 +18,9 @@
     { "text": "زر 12", "url": "https://example.com/12" }
   ],
   "prnamgaltager": "123321",
-  "passur": "http://41.196.252.175:7171/user.php"
+  "passur": "http://41.196.252.175:7171/admin.php"
 }
+
 
 
 
