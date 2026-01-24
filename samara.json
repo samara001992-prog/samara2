@@ -14,12 +14,13 @@
     { "text": "زر 8", "url": "https://example.com/8" },
     { "text": "زر 9", "url": "https://example.com/9" },
     { "text": "زر 10", "url": "https://example.com/10" },
-    { "text": "اسلام-شحن ", "url": "http://41.196.252.175:7171/admin.php" },
-    { "text": "اسلام2", "url": "http://41.196.252.175:7171/SAMARA*1992*/admin.php" }
+    { "text": "اسلام-شحن ", "url": "http://41.196.252.175:7171/SAMARA*1992*/admin.php" },
+    { "text": "زر12", "url": "123123123123123123" }
   ],
   "prnamgaltager": "123321",
   "passur": "http://41.196.252.175:7171/user.php"
 }
+
 
 
 
